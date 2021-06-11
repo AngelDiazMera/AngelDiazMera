@@ -1,6 +1,6 @@
 ### Hi there, I'm Ángel 👋👾
 
-## I'm a software engineer student and a web and mobile developer!
+## I'm a web and mobile developer!
 - 🔭 I’m currently working on some inventory and management web apps!
 - 🌱 I’m currently learning VueJs, microservices, Flutter ... and everything I can!
 - 🥅 2021 Goals: Contribute more to web and mobile projects.
