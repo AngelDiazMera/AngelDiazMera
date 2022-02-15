@@ -38,9 +38,14 @@
 
 
 ## 📊 GitHub Stats & Most used languages
+
+<div align="center">
+  
 [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelDiazMera)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDiazMera&layout=compact&langs_count=5&hide=html,handlebars)](https://github.com/AngelDiazMera)
+  
+</div>
 
 <br/>
 
