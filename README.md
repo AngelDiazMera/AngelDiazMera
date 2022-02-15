@@ -1,5 +1,12 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Hey! Nice to see you.
+</h1>
+<p align="center">
+  <a href="https://github.com/AngelDiazMera" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/jorge-angel-dm" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto: angel_diaz_mera@outlook.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Email-0e50c2?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a> 
+</p>
 
 <p>
   Welcome to my page. I'm Ángel, a fullstack software engineer from <b>🇲🇽 México</b> and I'm passionate about web and mobile development and willing to learn everything I can!
@@ -7,6 +14,24 @@
 <p>
   I’m currently working with a stack composed by <b>ReactJs, NestJs, NodeJs and MySql</b> on a project used to boost the economy and financial inclusion of the entire country.
 </p>
+
+<p>
+  I've worked on projects developing npm libraries, creating RestFul APIs, managing Cloud Functions, and also designing and developing frontend web and mobile apps.
+</p>
+
+## 📊 GitHub Stats & Most used languages
+
+<div>
+  <div align="center">
+    <img alt="Angel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AngelDiazMera" height="160"/>
+    <img alt="Angel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDiazMera&layout=compact&langs_count=5&hide=html,handlebars" height="160"/>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
+</div>
+
+<br/>
+
 
 ## Things I code with...
 <p  align="center">
@@ -33,29 +58,6 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-53afd4?style=flat-square&logo=python&logoColor=white" />
   <img alt="Php" src="https://img.shields.io/badge/-Php-BLUE?style=flat-square&logo=php&logoColor=white" />
 </p>
-
-
-
-
-## 📊 GitHub Stats & Most used languages
-
-<div align="center">
-  
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelDiazMera)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDiazMera&layout=compact&langs_count=5&hide=html,handlebars)](https://github.com/AngelDiazMera)
-  
-</div>
-
-<br/>
-
-<h3>Where to find me</h3>
-<p align="center">
-  <a href="https://github.com/AngelDiazMera" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/jorge-angel-dm" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="angel_diaz_mera@outlook.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Email-0e50c2?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a> 
-</p>
-
 <!--
 **AngelDiazMera/AngelDiazMera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
