@@ -40,7 +40,7 @@
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffc70f?style=flat-square&logo=Firebase&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1a73e8?style=flat-square&logo=Flutter&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-327a1f?style=flat-square&logo=vue-js&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-327a1f?style=flat-square&logo=vuedotjs&logoColor=white" />
 </p>
 
 
