@@ -23,8 +23,8 @@
 
 <div>
   <div align="center">
-    <img alt="Angel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AngelDiazMera" height="160"/>
-    <img alt="Angel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDiazMera&layout=compact&langs_count=5&hide=html,handlebars" height="160"/>
+    <img alt="Angel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AngelDiazMera&count_private=true" height="160"/>
+    <img alt="Angel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDiazMera&layout=compact&langs_count=5&hide=html,handlebars&count_private=true" height="160"/>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
@@ -60,17 +60,18 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1a73e8?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-53afd4?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Php" src="https://img.shields.io/badge/-Php-008fcc?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 <p  align="center">
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure DevOps-007ACC?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img alt="Arch" src="https://img.shields.io/badge/-Arch_Linux-53afd4?style=flat-square&logo=arch-linux&logoColor=white" />
   <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-43853d?style=flat-square&logo=manjaro&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-de761b?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 
 <p  align="center">
