@@ -41,6 +41,10 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffc70f?style=flat-square&logo=Firebase&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1a73e8?style=flat-square&logo=Flutter&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-327a1f?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-15c213?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Bootrstrap" src="https://img.shields.io/badge/-Bootrstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-007fff?style=flat-square&logo=material_ui&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
 
@@ -72,11 +76,13 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-de761b?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-009688?style=flat-square&logo=gitkraken&logoColor=white" />
 </p>
 
 <p  align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySql" src="https://img.shields.io/badge/-MySql-008fcc?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-MySql-008fcc?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 <!--
 **AngelDiazMera/AngelDiazMera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
