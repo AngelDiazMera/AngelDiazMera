@@ -81,8 +81,9 @@
 
 <p  align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-CB3837?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MySql" src="https://img.shields.io/badge/-MySql-008fcc?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-MySql-008fcc?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft SQL Server-008fcc?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 <!--
 **AngelDiazMera/AngelDiazMera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
