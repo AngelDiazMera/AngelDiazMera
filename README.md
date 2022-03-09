@@ -70,7 +70,7 @@
 <p  align="center">
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure DevOps-007ACC?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="Arch" src="https://img.shields.io/badge/-Arch_Linux-53afd4?style=flat-square&logo=arch-linux&logoColor=white" />
+<!--   <img alt="Arch" src="https://img.shields.io/badge/-Arch_Linux-53afd4?style=flat-square&logo=arch-linux&logoColor=white" /> -->
   <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-43853d?style=flat-square&logo=manjaro&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
