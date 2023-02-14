@@ -11,12 +11,9 @@
 <p>
   Welcome to my page. I'm Ángel, a fullstack software engineer from <b>🇲🇽 México</b> and I'm passionate about web and mobile development and willing to learn everything I can!
 </p>
-<p>
-  I’m currently working with  <b>ReactJs, NestJs, NodeJs and MySql</b> on a project used to boost the economy and financial inclusion of the entire country.
-</p>
 
 <p>
-  I've worked on projects developing npm libraries, creating RestFul APIs, managing Cloud Functions, and also designing and developing frontend web and mobile apps.
+  I've worked on projects developing npm libraries, creating RestFul APIs, managing Cloud Functions, designing and developing frontend web and mobile apps, and more.
 </p>
 
 ## 📊 GitHub Stats & Most used languages
